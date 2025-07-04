@@ -1,0 +1,3 @@
+let num1 = 87;
+let num2 = 65;
+console.log(num1 + num2); // 152
