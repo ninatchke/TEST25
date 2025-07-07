@@ -1,0 +1,2 @@
+let studentName = "Irakli";
+console.log(`Rise and shine, ${studentName} !`);
